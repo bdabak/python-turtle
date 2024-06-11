@@ -20,3 +20,5 @@ myPen.goto(0,50)
 myPen.goto(0,50)
 myPen.goto(0,60)
 myPen.end_poly();
+
+turtle.exitonclick()
